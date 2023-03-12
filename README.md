@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arslanzaki9" target="blank"><img src="https://img.shields.io/twitter/follow/arslanzaki9?logo=twitter&style=for-the-badge" alt="arslanzaki9" /></a> </p>
 
-- 🔭 I’m currently working on [SocialApp](https://github.com/arslanzaki/SocialApp_MERN)
+- 🔭 I’m currently working on [TechSheck](https://github.com/arslanzaki/techsheck_MERN)
 
 - 🌱 I’m currently learning **ReactJS & ReactNative**
 
