@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [TechSheck](https://github.com/arslanzaki/techsheck_MERN)
 
-- 🌱 I’m currently learning **ReactJS & ReactNative**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arslanzaki](https://github.com/arslanzaki)
 
-- 💬 Ask me about **JavaScript & React**
+- 💬 Ask me about **JavaScript, React, NodeJS & ExpressJS**
 
 - 📫 How to reach me **arslanzaki223@gmail.com**
 
